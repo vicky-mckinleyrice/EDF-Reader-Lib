@@ -1,5 +1,9 @@
 # EDF-Reader-Lib
-Library to read EDF Data
+Requirements
+iOS 14.0 or later Xcode 13 or later Swift 5 or later
+
+Installing Dependencies
+Now we're going to integrate our libraries into the Xcode project.
 
 Steps to integrate :
 
@@ -12,3 +16,16 @@ if let path = Bundle.main.path(forResource: "File_Name", ofType: "edf") {
         
     }
 }
+
+
+Follow this instruction and henceforth, use the workspace instead of your project.
+
+## Getting Involved
+
+### Submitting a Bug Report
+
+
+### Submitting a Feature Request
+
+
+<!-- Copyright (c) 2022-2023 Apple Inc and the Swift Project authors. All Rights Reserved. -->
